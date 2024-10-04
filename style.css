@@ -1,0 +1,56 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.judul{
+    text-align: center;
+}
+
+div{
+    display: block;
+    text-align: center;
+}
+img {
+width: 20%;
+}
+
+nav {
+    background-color: #4e4e50;
+    color: #fff;
+    text-align: end;
+    padding: 0.5rem;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: start;
+    vertical-align: auto;
+    padding: 20px;
+}
+.project {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.contact {
+    display: flex;
+    text-align: start;
+    margin-right: 10px;
+}
